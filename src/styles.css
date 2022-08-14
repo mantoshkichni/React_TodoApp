@@ -1,0 +1,71 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  background: blue;
+  color: whitesmoke;
+  width: 140px;
+  height: 50px;
+  border-radius: 15px;
+  margin: 10px;
+  font-size: 1.2em;
+}
+button:hover {
+  transform: scale(1.12);
+  transition: all 200ms ease-in-out;
+  box-shadow: 5px 10px 18px rgb(1, 1, 5);
+}
+form {
+  margin-left: 20%;
+  margin-top: 10%;
+  box-shadow: 5px 10px 18px violet;
+  height: 80px;
+  width: 60%;
+  border-radius: 15px;
+  margin-bottom: 40px;
+}
+input {
+  width: 40vw;
+  height: 40px;
+  border-radius: 15px;
+  font-size: 1.2rem;
+  margin-top: 20px;
+}
+input:focus {
+  background: rgba(168, 168, 201, 0.385);
+  color: rgba(40, 37, 37, 0.775);
+  transform: scale(1.05);
+  transition: all 200ms ease-in-out;
+}
+h1 {
+  font-size: 1.2rem;
+  font-weight: 800;
+}
+.todo {
+  box-shadow: 5px 10px 18px violet;
+  margin: 10px 240px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+  background: rgba(149, 114, 174, 0.2);
+  font-size: 0.85rem;
+  border-radius: 15px;
+  text-align: center;
+  width: 40vw;
+  margin-left: 30%;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.del_button {
+  height: 40px;
+  padding: 10px 20px;
+  font-size: 1.5em;
+  font-weight: 900;
+}
+.todo:hover {
+  transform: scale(1.12);
+  transition: all 200ms ease-in-out;
+}
