@@ -1,4 +1,5 @@
 
 Created with CodeSandbox
 visit the site at:-https://yrg3vm.csb.app/
-# React_TodoApp file:///home/mantosh/Pictures/Screenshots/Screenshot%20from%202022-09-04%2017-49-39.png
+
+![Screenshot from 2022-09-04 17-49-39](https://user-images.githubusercontent.com/73746406/188313236-357cc4df-61aa-41f8-89e8-d6ae219cadd3.png)
